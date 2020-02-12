@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.topo{
+    background-color: rgba(127, 133, 138, 0.63);
+    width: 900px;
+    height: 100px;
+    text-align: center;
+    margin-top: none;
+}
+
+.menu{
+    background-color: aquamarine;
+    height: 900px;
+    width: 200px;
+    float: left;
+    
+
+}
+
+p {
+    padding: 20px;
+}
+
+.meio{
+    text-align: center;
+    background-position: center;
+    background-color: coral;
+    height: 900px;
+    width: 900px;
+}
+
+.fim{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+a:hover{
+    font-style: italic;
+    
+}
+a{
+    color: black;
+}
+
